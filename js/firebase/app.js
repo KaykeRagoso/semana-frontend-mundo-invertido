@@ -5,12 +5,12 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyBd0tVXbcLVKBRZ7teDArqj_uhEbonAtRc",
-    authDomain: "projeto-mundo-invertido-cceb5.firebaseapp.com",
-    projectId: "projeto-mundo-invertido-cceb5",
-    storageBucket: "projeto-mundo-invertido-cceb5.appspot.com",
-    messagingSenderId: "896866034949",
-    appId: "1:896866034949:web:4c53dad8c087d95d62036c"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
   // Initialize Firebase
